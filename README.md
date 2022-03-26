@@ -1,5 +1,9 @@
 # vue-todo
 
+# Preview Link
+
+vue-todo-app: https://optimistic-goldstine-106f5c.netlify.app
+
 ## Project setup
 ```
 npm install
